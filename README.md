@@ -12,16 +12,18 @@
 10. slice.go
 11. maps.go
 
-
 ## Random Programs
+> The programs are in Random folder
 1. test.go
 2. Rest.go
 3. papersize.go
 4. randomNumberGenrator.go
+5. divisors.go
 
 
 ## Beginner exercises
-- Create a program that shows your name.
+> The programs are in Beginner exercises folder
+  - Create a program that shows your name.
     **_name.go_**
   - Create a program that shows your address.           
     **_address.go_**
