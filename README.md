@@ -23,15 +23,15 @@
 
 ## Beginner exercises
 > The programs are in Beginner exercises folder
-  - Create a program that shows your name.
+  - Create a program that shows your name.          
     **_name.go_**
   - Create a program that shows your address.           
     **_address.go_**
-  - Create a program and add a comment with your name.
+  - Create a program and add a comment with your name.          
     **_comment.go_**
-  - Create a program with multiple string variables.
+  - Create a program with multiple string variables.            
     **_multiple_strings.go_**
-  - Create a program that holds your name in a string.
+  - Create a program that holds your name in a string.          
     **_string_name.go_**
 
 

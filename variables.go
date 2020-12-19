@@ -41,6 +41,9 @@ func main() {
     f := "apple"
 	fmt.Println(f)
 	
+	var myChar byte = 'A'    	//Stores ASCII characters
+	var myUnicode rune = '♥' 	//Stores Unicode characters
+	fmt.Printf("%c = %d and %c = %U\n", myChar, myChar, myUnicode, myUnicode)
 
 	// Default values of the data type
 	// 1a. numeric
