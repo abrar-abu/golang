@@ -17,6 +17,7 @@ const (
 )
 
 func main() {
+	kafka.
 	// create a new context
 	ctx := context.Background()
 	// produce messages in a new go routine, since
