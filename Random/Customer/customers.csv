@@ -1,0 +1,14 @@
+Customer, Area, Date, Product, Price, PaymentMode 
+Anita Blake, Manhattan, 1/11/20, Gramophone, $170, Cash
+Elvis Cole, Brooklyn, 1/11/20, Wall Clock, $900, Credit Card
+Anita Blake, Manhattan, 3/11/20, Wall Clock, $1000, Cash
+Nancy Drew, Brooklyn, 4/11/20, Wrist Watch, $500, Credit Card
+Sherlock Holmes, The Bronx, 5/11/20, Wrist Watch, $550, Credit Card
+Miss Marple, Manhattan, 10/11/20,  Jewelry Box, $1000, Credit Card
+Anita Blake, The Bronx, 21/11/20, Wrist Watch, $550, Credit Card
+Anita Blake, Manhattan, 22/11/20, Binocular, $150, UPI
+Perry Mason, Brooklyn, 23/11/20, Binocular, $100, Cash
+Nancy Drew, Brooklyn, 24/11/20, Binocular, $200, UPI
+Elvis Cole, Brooklyn, 25/11/20, Binocular, $150, UPI
+Miss Marple, Manhattan, 12/11/20, Wall Clock, $1000, Cash
+Perry Mason, Brooklyn, 12/11/20,  Jewelry Box, $1000, Credit Card
