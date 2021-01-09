@@ -19,6 +19,10 @@
 3. papersize.go
 4. randomNumberGenrator.go
 5. divisors.go
+6. Kafka
+7. Customer
+8. Logger
+9. Config
 
 
 ## Beginner exercises
@@ -36,6 +40,10 @@
 
 
 ## Intermediate exercises
+
+## Challenges
+  - [Tutorial Edge](https://tutorialedge.net/challenges/go/)
+    - 
 
 ### Todos
 
