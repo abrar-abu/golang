@@ -25,7 +25,7 @@ In this Challenge, you will create your first Go application and commit it up to
 
 -------------
 
-- [ ] [Challenge 04 - Checking for Duplicates]()
+- [x] [Challenge 04 - Checking for Duplicates](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2004)
 
 In this challenge, we are going to implement a function that allows us to check and see if there are duplicates within a list in Go
 
@@ -34,7 +34,7 @@ In this challenge, we are going to implement a function that allows us to check 
 
 -------------
 
-- [ ] [Challenge 05 - Implementing a Stack in Go]()
+- [x] [Challenge 05 - Implementing a Stack in Go](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2005)
 
 In this challenge, you will be implementing some of the core functionality of the Stack data structure in Go!
 
