@@ -43,7 +43,7 @@ In this challenge, you will be implementing some of the core functionality of th
 
 -------------
 
-- [ ] [Challenge 06 - Implementing a Queue in Go]()
+- [x] [Challenge 06 - Implementing a Queue in Go](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2006)
 
 In this challenge, you will be implementing some of the core functionality of the Queue data structure in Go!
 
@@ -52,7 +52,7 @@ In this challenge, you will be implementing some of the core functionality of th
 
 -------------
 
-- [ ] [Challenge 07 - Minimums, Maximums and Errors]()
+- [x] [Challenge 07 - Minimums, Maximums and Errors](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2007)
 
 In this Challenge, you are going to find the cheapest and most expensive flights from a list in Go
 
@@ -61,7 +61,7 @@ In this Challenge, you are going to find the cheapest and most expensive flights
 
 -------------
 
-- [ ] [Challenge 08 - Check Permutations]()
+- [x] [Challenge 08 - Check Permutations](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2008)
 
 In this challenge, you are going to be building a function that takes in two string values and checks to see if they are permutations of each other!
 
@@ -70,7 +70,7 @@ In this challenge, you are going to be building a function that takes in two str
 
 -------------
 
-- [ ] [Challenge 09 - 🔗 Singly Linked Lists]()
+- [x] [Challenge 09 - 🔗 Singly Linked Lists](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2009)
 
 In this challenge, you will be implementing the basic functionality of a singly linked list in Go!
 
@@ -79,7 +79,7 @@ In this challenge, you will be implementing the basic functionality of a singly 
 
 -------------
 
-- [ ] [Challenge 10 - Word Frequencies]()
+- [x] [Challenge 10 - Word Frequencies](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2010)
 
 In this challenge, you will be tasked with efficiently counting the frequencies of words in Go!
 
@@ -88,7 +88,7 @@ In this challenge, you will be tasked with efficiently counting the frequencies 
 
 -------------
 
-- [ ] [Challenge 11 - Sets and Subsets]()
+- [x] [Challenge 11 - Sets and Subsets](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2011)
 
 In this challenge, you are going to be implementing a function that checks to see if a set is a sub-set.
 
