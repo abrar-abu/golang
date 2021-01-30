@@ -97,7 +97,7 @@ In this challenge, you are going to be implementing a function that checks to se
 
 -------------
 
-- [ ] [Challenge 12 - Armstrong Numbers]()
+- [x] [Challenge 12 - Armstrong Numbers](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2012)
 
 In thie challenge, you are tasked with checking to see if a number is an Armstrong number in Go!
 
@@ -106,7 +106,7 @@ In thie challenge, you are tasked with checking to see if a number is an Armstro
 
 -------------
 
-- [ ] [Challenge 13 - Smallest Difference between Ints]()
+- [x] [Challenge 13 - Smallest Difference between Ints](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2013)
 
 In this challenge, you are tasked with finding the smallest possible difference between 2 int slices.
 
@@ -115,7 +115,7 @@ In this challenge, you are tasked with finding the smallest possible difference 
 
 -------------
 
-- [ ] [Challenge 14 - Leap Years]()
+- [x] [Challenge 14 - Leap Years](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2014)
 
 In this challenge, you are tasked with implementing a function that returns whether or not a year is a leap year.
 
@@ -124,7 +124,7 @@ In this challenge, you are tasked with implementing a function that returns whet
 
 -------------
 
-- [ ] [Challenge 15 - Repeating Letters]()
+- [x] [Challenge 15 - Repeating Letters](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2015)
 
 In this challenge, you are tasked with implementing a function that takes in a string and then duplicates the characters twice within the string.
 
@@ -133,7 +133,7 @@ In this challenge, you are tasked with implementing a function that takes in a s
 
 -------------
 
-- [ ] [Challenge 16 - Odd or Even Factors]()
+- [x] [Challenge 16 - Odd or Even Factors](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2016)
 
 In this challenge, we are going to be implementing a function that will return either "odd" or "even" depending on the number of factors of a number.
 
@@ -142,7 +142,7 @@ In this challenge, we are going to be implementing a function that will return e
 
 -------------
 
-- [ ] [Challenge 17 - Decode the Secret]()
+- [x] [Challenge 17 - Decode the Secret](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2017)
 
 In this challenge, you are tasked with decoding this secret message and returning the unencoded string in Go!
 
@@ -151,7 +151,7 @@ In this challenge, you are tasked with decoding this secret message and returnin
 
 -------------
 
-- [ ] [Challenge 18 - Min Rotations]()
+- [x] [Challenge 18 - Min Rotations](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2018)
 
 In this challenge, you will be tasked with finding how many rotations an ordered slice has undergone.
 
@@ -160,7 +160,7 @@ In this challenge, you will be tasked with finding how many rotations an ordered
 
 -------------
 
-- [ ] [Challenge 19 - Calculating The Difference Between Squares]()
+- [x] [Challenge 19 - Calculating The Difference Between Squares](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2019)
 
 In this Challenge, you are tasked with finding the difference between squares in Go!
 
@@ -169,7 +169,7 @@ In this Challenge, you are tasked with finding the difference between squares in
 
 -------------
 
-- [ ] [Challenge 20 - Finding the nth Triangular Number]()
+- [x] [Challenge 20 - Finding the nth Triangular Number](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2020)
 
 In this Challenge, you are tasked with implementing a function that will correctly return the 'nth' triangular number in Go!
 
@@ -178,7 +178,7 @@ In this Challenge, you are tasked with implementing a function that will correct
 
 -------------
 
-- [ ] [Challenge 21 - JSON and Stock Dividends]()
+- [x] [Challenge 21 - JSON and Stock Dividends](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge/Challenge%2021)
 
 In this challenge, you are going to need to work with JSON strings and parse JSON in Go in order to retrieve the highest dividend stocks!
 

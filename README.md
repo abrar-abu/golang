@@ -42,8 +42,8 @@
 ## Intermediate exercises
 
 ## Challenges
-  - [Tutorial Edge](https://tutorialedge.net/challenges/go/)
-    - 
+  - [Tutorial Edge](https://github.com/abrar-abu/golang/tree/main/Challenges/TutorialEdge)
+  
 
 ### Todos
 
