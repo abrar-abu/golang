@@ -1,3 +1,5 @@
+![The Core](The_Core_un.png?raw=true "The Core")
+
 - [ ] [Challenge 01 - Intro Gates]()
 
 -------------

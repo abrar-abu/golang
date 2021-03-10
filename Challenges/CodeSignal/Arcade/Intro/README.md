@@ -1,3 +1,5 @@
+!["Intro"](Intro_Un.png?raw=true "Intro")
+
 - [x] [Challenge 01 - The Journey Begins](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/The%20Journey%20Begins)
 
 -------------
@@ -7,7 +9,7 @@
 
 -------------
 
-- [ ] [Challenge 03 - Smooth Sailing](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Smooth%20Sailing)
+- [x] [Challenge 03 - Smooth Sailing](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Smooth%20Sailing)
 
 
 -------------
