@@ -14,7 +14,7 @@
 
 -------------
 
-- [ ] [Challenge 04 - Exploring the Waters](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
+- [x] [Challenge 04 - Exploring the Waters](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
 
 
 -------------
