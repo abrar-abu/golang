@@ -19,42 +19,42 @@
 
 -------------
 
-- [ ] [Challenge 05 - Islands of Knowledge](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
+- [x] [Challenge 05 - Islands of Knowledge](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Islands%20of%20Knowledge)
 
 
 -------------
 
-- [ ] [Challenge 06 - Rains of Reason](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
+- [ ] [Challenge 06 - Rains of Reason](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Rains%20of%20Reason)
 
 
 -------------
 
-- [ ] [Challenge 07 - Through the Fog](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
+- [ ] [Challenge 07 - Through the Fog](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Through%20the%20Fog)
 
 
 -------------
 
-- [ ] [Challenge 08 - Diving Deeper](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
+- [ ] [Challenge 08 - Diving Deeper](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Diving%20Deeper)
 
 
 -------------
 
-- [ ] [Challenge 09 - 🔗 Dark Wilderness](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
+- [ ] [Challenge 09 - 🔗 Dark Wilderness](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Dark%20Wilderness)
 
 
 -------------
 
-- [ ] [Challenge 10 - Eruption of Light](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
+- [ ] [Challenge 10 - Eruption of Light](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Eruption%20of%20Light)
 
 
 -------------
 
-- [ ] [Challenge 11 - Rainbow of Clarity](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
+- [ ] [Challenge 11 - Rainbow of Clarity](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Rainbow%20of%20Clarity)
 
 
 -------------
 
-- [ ] [Challenge 12 - Land of Logic](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Edge%20of%20the%20Ocean)
+- [ ] [Challenge 12 - Land of Logic](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Land%20of%20Logic)
 
 
 -------------
