@@ -1,9 +1,9 @@
-![arcade-intro-04-exploring-the-waters](arcade-intro-04-exploring-the-waters.png?raw=true "arcade-intro-04-exploring-the-waters")
+![arcade-intro-05-island-of-knowledge](arcade-intro-05-island-of-knowledge.png?raw=true "arcade-intro-05-island-of-knowledge")
 
 
 - [ ] [Challenge 05 - Islands of Knowledge]()
 
-    - There are 5 challenges
+    - There are 6 challenges
     - [x] [areEquallyStrong]()
     - [x] [arrayMaximalAdjacentDifference]()
     - [x] [isIpv4Address]()

@@ -24,7 +24,7 @@
 
 -------------
 
-- [ ] [Challenge 06 - Rains of Reason](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Rains%20of%20Reason)
+- [x] [Challenge 06 - Rains of Reason](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Rains%20of%20Reason)
 
 
 -------------
