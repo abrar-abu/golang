@@ -38,7 +38,6 @@ es-data
 kafka-data
 .m2
 
-
 ### Custom Folders ###
 Challenges/TutorialEdge/Challenge\ 22
 
@@ -48,8 +47,15 @@ Random/ToDo
 ### Data Structure ###
 Data Structure/
 
+Challenges/CodeSignal/Arcade/Intro/README.md
+
 ### Challenges/CodeSignal ###
-Challenges/CodeSignal/Arcade/Intro/Through the Fog
 Challenges/CodeSignal/Arcade/Intro/Diving Deeper
+Challenges/CodeSignal/Arcade/Intro/Dark Wilderness
+Challenges/CodeSignal/Arcade/Intro/Eruption of Light
+Challenges/CodeSignal/Arcade/Intro/Rainbow of Clarity
+Challenges/CodeSignal/Arcade/Intro/Land of Logic
+
+
 
 
