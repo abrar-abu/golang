@@ -83,14 +83,14 @@
 
 -------------
 
-#### - [ ] [Challenge 08 - Diving Deeper](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Diving%20Deeper)
+#### - [✅] [Challenge 08 - Diving Deeper](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Diving%20Deeper)
 
 ![arcade-intro-08-diving-deeper](Diving%20Deeper/arcade-intro-08-diving-deeper.png?raw=true "arcade-intro-08-diving-deeper.png")
 
-34. Extract Each Kth
-35. First Digit
-36. Different Symbols Naive
-37. Array Max Consecutive Sum
+34. ✅ Extract Each Kth
+35. ✅ First Digit
+36. ✅ Different Symbols Naive
+37. ✅ Array Max Consecutive Sum
 
 -------------
 
