@@ -98,11 +98,11 @@
 
 ![arcade-intro-09-dark-wilderness](Dark%20Wilderness/arcade-intro-09-dark-wilderness.png?raw=true "arcade-intro-09-dark-wilderness.png")
 
-38. Growing Plant
-39. Knapsack Light
-40. Longest Digits Prefix
-41. Digit Degree
-42. Bishop And Pawn
+38. ✅ Growing Plant
+39. ✅ Knapsack Light
+40. ✅ Longest Digits Prefix
+41. ✅ Digit Degree
+42. ❌ Bishop And Pawn
 
 -------------
 
