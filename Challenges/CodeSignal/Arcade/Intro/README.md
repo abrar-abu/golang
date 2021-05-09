@@ -110,11 +110,11 @@
 
 ![arcade-intro-10-eruption-of-light.png](Eruption%20of%20Light/arcade-intro-10-eruption-of-light.png?raw=true "arcade-intro-10-eruption-of-light")
 
-43. Is Beautiful String
-44. Find Email Domain
-45. Build Palindrome
-46. Elections Winners
-47. Is Mac 48 Address
+43. ❌ Is Beautiful String
+44. ✅ Find Email Domain
+45. ✅ Build Palindrome
+46. ❌ Elections Winners
+47. ✅ Is Mac 48 Address
 
 -------------
 
