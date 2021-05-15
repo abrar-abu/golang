@@ -118,14 +118,14 @@
 
 -------------
 
-#### - [ ] [Challenge 11 - Rainbow of Clarity](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Rainbow%20of%20Clarity)
+#### - [✅] [Challenge 11 - Rainbow of Clarity](https://github.com/abrar-abu/golang/tree/main/Challenges/CodeSignal/Arcade/Intro/Rainbow%20of%20Clarity)
 
 ![arcade-intro-11-rainbow-of-clarity.png](Rainbow%20of%20Clarity/arcade-intro-11-rainbow-of-clarity.png?raw=true "arcade-intro-11-rainbow-of-clarity")
 
-48. Is Digit
-49. Line Encoding
-50. Chess Knight
-51. Delete Digit
+48. ✅ Is Digit
+49. ✅ Line Encoding
+50. ✅ Chess Knight
+51. ✅ Delete Digit
 
 -------------
 
